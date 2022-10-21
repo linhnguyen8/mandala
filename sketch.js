@@ -364,7 +364,5 @@ function saveJpg() {
 //   }
 // }
 
-function draw() {
-  // put drawing code here
-}
+
 
